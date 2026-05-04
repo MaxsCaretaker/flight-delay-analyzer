@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Analyzer
+# Flight Delay Analyzer
 
 A desktop application for exploring real U.S. flight delay data, built with Python.
 
@@ -101,13 +101,6 @@ flight-delay-analyzer/
 ├── flights_clean.csv   # Auto-generated cleaned data
 └── README.md
 ```
-
----
-
-## Author
-
-**Max** — Computer Engineering, B.S.  
-[GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
